@@ -14,7 +14,7 @@ My name is Mahalet Neguisse and I'm a First Year. My prospective major will be A
 
 ## Experience
 
-I have **zero** programming experience. I have a little experience with sewing. 
+I have **zero** programming experience. I have a _little_ experience with sewing. 
 
 
 
@@ -31,20 +31,11 @@ I have one dog. Her name is Cutie. She is 13.
 
 
 
-## Boxes
-You can add notification, warning and error boxes like this:
+
 
 ### Notification
 
 {: .box-note}
-**Note:** This is a notification box.
+**Note:** Remember to watch the video.
 
-### Warning
 
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
