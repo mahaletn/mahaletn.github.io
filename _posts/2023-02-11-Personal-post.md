@@ -27,7 +27,8 @@ I hope to learn how to code. It doesn't matter what I code or program as long as
 ## Mahalet's Boring Fact of the Day 
 
 I have one dog. Her name is Cutie. She is 13.  
-![cutiepfp](https://mahaletn.github.io/assets/img/cutiepfp.png){: .center-block :} 
+![cutiepfp](https://mahaletn.github.io/assets/img/cutiepfp.png){: .center-block :}  
+![cutiepost](https://mahaletn.github.io/assets/img/cutiepost.png){: .center-block :} 
 
 
 
