@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I'm taking Electronic Textiles
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**_Don't put all your eggs in one basket_** 
+                      -_Unknown_ 
+                      
+Just like the saying implies, I should not take courses all for one major. Although I'm interested in Art History as my major, as a Freshman, who knows what I'll declare my end of sophomore year. That's why I'm taking Electronic Textiles. Here, I can learn the basics of computer science and sewing while also exploring my interests in compsci. Hopefully, by the end of this course, I'll want to learn more about compsci and take another class next year! If not, at least I can say I tried.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![eggs](https://mahaletn.github.io/assets/img/eggs.jpeg){: .center-block :} .
