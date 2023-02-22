@@ -15,7 +15,7 @@ TIP: The next time you're doing this future Mahalet, make sure to run after each
 
 
 ## Sweater Weather Output
-![sweateroutput](https://mahaletn.github.io/assets/img/sweaterop.png){: .center-block :} 
+![sweaterop](https://mahaletn.github.io/assets/img/sweaterop.png){: .center-block :} 
 
 
 
