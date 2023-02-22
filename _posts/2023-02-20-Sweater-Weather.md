@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Personalized Post
+title: Sweater Weather 
 subtitle: Learn more about Mahalet
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -14,7 +14,8 @@ TIP: The next time you're doing this future Mahalet, make sure to run after each
 
 
 
-
+## Sweater Weather Output
+![sweateroutput](https://mahaletn.github.io/assets/img/sweateroutput.png){: .center-block :} 
 
 
 
