@@ -2,6 +2,6 @@ This was an assignment testing the button and switch from our plushy assignment.
 My best tip would be to make sure to accurately label your variables! You didnt do it the first time but you always have ot label them. 
 
 
-![plushyoutput](https://mahaletn.github.io/assets/img/;plushyoutput.png){: .center-block :}  
+![plushyoutput](https://mahaletn.github.io/assets/img/;plushyoutput.png)  
 (The output is offoffoff because both the switch and button were set to 0) 
 
