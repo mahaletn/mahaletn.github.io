@@ -3,5 +3,5 @@ My best tip would be to make sure to accurately label your variables! You didnt 
 
 
 ![plushyoutput](https://mahaletn.github.io/assets/img/;plushyoutput.png){: .center-block :}  
-
+(The output is offoffoff because both the switch and button were set to 0) 
 
