@@ -24,7 +24,7 @@ The best tip is to first plan out what actions your code needs to do given the i
 ## Mahalet's Boring Fact of the Day 
 
 I have one dog. Her name is Cutie. She is 13.  
-![sparklies](https://mahaletn.github.io/assets/img/sparklies2.png){: .center-block :}  
+![sparklies2](https://mahaletn.github.io/assets/img/sparklies2.png)
 
 
 
