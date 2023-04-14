@@ -8,7 +8,7 @@ I was confused on whether the minimum or maximum should be set to 0 so testing o
 
 
 ## Ghost detector Output
-![sweaterop](https://mahaletn.github.io/assets/img/ghostdetector.png){: .center-block :} 
+![ghostdetector](https://mahaletn.github.io/assets/img/ghostdetector.png){: .center-block :} 
 
 
 
